@@ -1,2 +1,3 @@
 # data_mining_techniques
-Course project
+
+Course project under Prof. Tina Eliassi Rad
